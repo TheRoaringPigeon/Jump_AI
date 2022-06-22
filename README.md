@@ -1,5 +1,5 @@
 # Jump_AI
-Genetic "learning" with jumping dots and platforms
+Genetic "learning" with jumping dots and platforms written in javascript using p5.js
 
 Each jumper is spawned with a set of random instructions. 
 The jumper gets a score based on how many checkpoints it obtains as it jumps on platforms. 
